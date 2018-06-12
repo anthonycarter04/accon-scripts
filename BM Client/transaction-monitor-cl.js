@@ -20,6 +20,7 @@ function tranMonSave(){
 			
 			var hasPrimary = 'F';
 			
+			
 			var partnerListCount = nlapiGetLineItemCount('partners');
 			if (partnerListCount && partnerListCount != '') {
 				
