@@ -18,6 +18,7 @@ function costSC(type) {
 	//get script parameter used when requeing script
 	var currBillId = context.getSetting('SCRIPT', 'custscript_cc_bill_id');
 	
+	
 	//set master data array
 	var data = {};
 	
