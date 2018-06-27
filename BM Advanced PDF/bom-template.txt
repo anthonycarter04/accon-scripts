@@ -43,6 +43,7 @@
             font-weight: bold;
             font-size: 8pt;
             vertical-align: middle;
+            
             padding: 5px 6px 3px;
             background-color: #e3e3e3;
             color: #333333;
