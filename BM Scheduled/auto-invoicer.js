@@ -154,6 +154,7 @@ function autoInv(type) {
 					}
 					
 					
+					
 				}
 				
 			}
